@@ -29,6 +29,6 @@ if p >= 0:
     print (' Precisará tirar: {} para passar'.format (n2))
     print (' poderá faltar: ', p,'aulas')
 else:
-    print(' SE FODEU OTÁRIO, perdeu por falta')
+    print('perdeu por falta, entre em contato com os seus professores')
     
 fim = input(' Pressione ENTER para terminar') 
